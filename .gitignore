@@ -1,1 +1,3 @@
 *.pyc
+spice/cache/*
+spice/lib/*
