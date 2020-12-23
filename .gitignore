@@ -1,3 +1,4 @@
 *.pyc
 spice/cache/*
+spice/tmp/*
 spice/lib/stanford-corenlp*
